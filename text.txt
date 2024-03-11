@@ -11,7 +11,7 @@ dan mari berhitung
 7
 8
 
-*name of food
-  -gado-gado
-  -burger
-  -potato
+*name of drink
+  -es jeruk
+  -es kelapa
+  -es campur
