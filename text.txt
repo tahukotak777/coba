@@ -1,0 +1,3 @@
+ini adalah file pertama di repo ini
+
+dan ini adalah suatu file dalam repo yang akan saya gunakan untuk mencoba gituhub
