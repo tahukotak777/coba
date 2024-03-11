@@ -1,3 +1,10 @@
 ini adalah file pertama di repo ini
 
 dan ini adalah suatu file dalam repo yang akan saya gunakan untuk mencoba gituhub
+
+ini adalah file tambahan di repo ini
+dan mari berhitung 
+1
+2
+3
+4
