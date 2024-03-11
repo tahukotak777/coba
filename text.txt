@@ -5,6 +5,4 @@ dan ini adalah suatu file dalam repo yang akan saya gunakan untuk mencoba gituhu
 ini adalah file tambahan di repo ini
 dan mari berhitung 
 1
-2
-3
 4
